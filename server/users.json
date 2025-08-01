@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Sampada",
+    "email": "sam@example.com",
+    "referralCode": "sampada2025",
+    "totalDonations": 15000
+  },
+  {
+    "name": "Ravi",
+    "email": "ravi@example.com",
+    "referralCode": "ravi2025",
+    "totalDonations": 12000
+  },
+  {
+    "name": "Aisha",
+    "email": "aisha@example.com",
+    "referralCode": "aisha2025",
+    "totalDonations": 9000
+  },
+  {
+    "name": "Neha",
+    "email": "neha@example.com",
+    "referralCode": "neha2025",
+    "totalDonations": 8000
+  },
+  {
+    "name": "Zaid",
+    "email": "zaid@example.com",
+    "referralCode": "zaid2025",
+    "totalDonations": 7000
+  },
+  {
+    "name": "Aman",
+    "email": "aman@example.com",
+    "referralCode": "aman2025",
+    "totalDonations": 6500
+  },
+  {
+    "name": "Priya",
+    "email": "priya@example.com",
+    "referralCode": "priya2025",
+    "totalDonations": 6200
+  },
+  {
+    "name": "Kabir",
+    "email": "kabir@example.com",
+    "referralCode": "kabir2025",
+    "totalDonations": 6000
+  },
+  {
+    "name": "Tina",
+    "email": "tina@example.com",
+    "referralCode": "tina2025",
+    "totalDonations": 5800
+  },
+  {
+    "name": "Deepak",
+    "email": "deepak@example.com",
+    "referralCode": "deepak2025",
+    "totalDonations": 5500
+  }
+]
